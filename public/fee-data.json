@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:30:46.489Z",
+  "updatedAt": "2026-11-25T05:59:28.414Z",
   "schedule": "Daily 09:00 KST",
   "source": "auto-free",
   "sendAmounts": [
@@ -75,8 +75,8 @@
   ],
   "rates": {
     "USD": {
-      "midRate": 1344,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "midRate": 1342,
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
         {
           "id": "sentbe",
@@ -84,8 +84,8 @@
           "kr": "센트비",
           "supported": true,
           "fee": 2500,
-          "spread": 0.67,
-          "appliedRate": 1353,
+          "spread": 0.745,
+          "appliedRate": 1352,
           "speed": "5분~2일",
           "promotions": "6월 150만↑ 이벤트, 토스 연계 수수료 면제",
           "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
@@ -94,46 +94,46 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 2500,
-              "spread": 0.67,
-              "appliedRate": 1353,
-              "receivedAmount": 219.88,
-              "totalCost": 4510
+              "spread": 0.745,
+              "appliedRate": 1352,
+              "receivedAmount": 220.04,
+              "totalCost": 4735
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 2500,
-              "spread": 0.67,
-              "appliedRate": 1353,
-              "receivedAmount": 737.25,
-              "totalCost": 9200
+              "spread": 0.745,
+              "appliedRate": 1352,
+              "receivedAmount": 737.8,
+              "totalCost": 9950
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 2500,
-              "spread": 0.67,
-              "appliedRate": 1353,
-              "receivedAmount": 2215.45,
-              "totalCost": 22600
+              "spread": 0.745,
+              "appliedRate": 1352,
+              "receivedAmount": 2217.09,
+              "totalCost": 24850
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 2500,
-              "spread": 0.67,
-              "appliedRate": 1353,
-              "receivedAmount": 3693.64,
-              "totalCost": 36000
+              "spread": 0.745,
+              "appliedRate": 1352,
+              "receivedAmount": 3696.38,
+              "totalCost": 39750
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 2500,
-              "spread": 0.67,
-              "appliedRate": 1353,
-              "receivedAmount": 7389.14,
-              "totalCost": 69500
+              "spread": 0.745,
+              "appliedRate": 1352,
+              "receivedAmount": 7394.6,
+              "totalCost": 77000
             }
           },
-          "totalCost": 9200,
-          "foreignAmount": 737.25
+          "totalCost": 9950,
+          "foreignAmount": 737.8
         },
         {
           "id": "wise",
@@ -142,7 +142,7 @@
           "supported": true,
           "fee": 5000,
           "spread": 0.5,
-          "appliedRate": 1351,
+          "appliedRate": 1349,
           "speed": "—",
           "promotions": "",
           "note": "데이터 미확인",
@@ -152,45 +152,45 @@
               "sendAmount": 300000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 218.36,
+              "appliedRate": 1349,
+              "receivedAmount": 218.68,
               "totalCost": 6500
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 736.49,
+              "appliedRate": 1349,
+              "receivedAmount": 737.58,
               "totalCost": 10000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 2216.88,
+              "appliedRate": 1349,
+              "receivedAmount": 2220.16,
               "totalCost": 20000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 3697.26,
+              "appliedRate": 1349,
+              "receivedAmount": 3702.74,
               "totalCost": 30000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 7398.22,
+              "appliedRate": 1349,
+              "receivedAmount": 7409.19,
               "totalCost": 55000
             }
           },
           "totalCost": 10000,
-          "foreignAmount": 736.49
+          "foreignAmount": 737.58
         },
         {
           "id": "paypal",
@@ -199,7 +199,7 @@
           "supported": true,
           "fee": 5000,
           "spread": 0.5,
-          "appliedRate": 1351,
+          "appliedRate": 1349,
           "speed": "—",
           "promotions": "",
           "note": "데이터 미확인",
@@ -209,181 +209,45 @@
               "sendAmount": 300000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 218.36,
+              "appliedRate": 1349,
+              "receivedAmount": 218.68,
               "totalCost": 6500
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 736.49,
+              "appliedRate": 1349,
+              "receivedAmount": 737.58,
               "totalCost": 10000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 2216.88,
+              "appliedRate": 1349,
+              "receivedAmount": 2220.16,
               "totalCost": 20000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 3697.26,
+              "appliedRate": 1349,
+              "receivedAmount": 3702.74,
               "totalCost": 30000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 1351,
-              "receivedAmount": 7398.22,
+              "appliedRate": 1349,
+              "receivedAmount": 7409.19,
               "totalCost": 55000
             }
           },
           "totalCost": 10000,
-          "foreignAmount": 736.49
-        },
-        {
-          "id": "moin",
-          "name": "MOIN",
-          "kr": "모인",
-          "supported": true,
-          "fee": 12000,
-          "spread": 0,
-          "appliedRate": 1344,
-          "receivedAmount": 734.65,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 7100,
-              "fixedFee": 5000,
-              "flexibleFee": 2100,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 217.79
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 12000,
-              "fixedFee": 5000,
-              "flexibleFee": 7000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 734.65
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 26000,
-              "fixedFee": 5000,
-              "flexibleFee": 21000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 2211.39
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 40000,
-              "fixedFee": 5000,
-              "flexibleFee": 35000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 3688.13
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 75000,
-              "fixedFee": 5000,
-              "flexibleFee": 70000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 7379.97
-            }
-          },
-          "promotions": "환율우대 100%",
-          "note": "수수료율 0.7%",
-          "totalCost": 12000,
-          "foreignAmount": 735.12
-        },
-        {
-          "id": "toss",
-          "name": "토스",
-          "kr": "토스",
-          "supported": true,
-          "fee": 12000,
-          "spread": 0,
-          "appliedRate": 1344,
-          "receivedAmount": 734.65,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 7100,
-              "fixedFee": 5000,
-              "flexibleFee": 2100,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 217.79
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 12000,
-              "fixedFee": 5000,
-              "flexibleFee": 7000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 734.65
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 26000,
-              "fixedFee": 5000,
-              "flexibleFee": 21000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 2211.39
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 40000,
-              "fixedFee": 5000,
-              "flexibleFee": 35000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 3688.13
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 75000,
-              "fixedFee": 5000,
-              "flexibleFee": 70000,
-              "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 1344,
-              "receivedAmount": 7379.97
-            }
-          },
-          "promotions": "모인 해외송금 연동",
-          "note": "모인 연동, 동일 환율",
-          "totalCost": 12000,
-          "foreignAmount": 735.12
+          "foreignAmount": 737.58
         },
         {
           "id": "wirebarley",
@@ -391,8 +255,8 @@
           "kr": "와이어바알리",
           "supported": true,
           "fee": 0,
-          "spread": 1.6,
-          "appliedRate": 1366,
+          "spread": 1.07,
+          "appliedRate": 1356,
           "speed": "1~3일",
           "promotions": "신규가입 쿠폰 ~$8",
           "note": "50만↑ 무료, 스프레드로 수익",
@@ -401,46 +265,182 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 5000,
-              "spread": 1.6,
-              "appliedRate": 1366,
-              "receivedAmount": 215.96,
-              "totalCost": 9800
+              "spread": 1.07,
+              "appliedRate": 1356,
+              "receivedAmount": 217.55,
+              "totalCost": 8210
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 0,
-              "spread": 1.6,
-              "appliedRate": 1366,
-              "receivedAmount": 732.06,
-              "totalCost": 16000
+              "spread": 1.07,
+              "appliedRate": 1356,
+              "receivedAmount": 737.46,
+              "totalCost": 10700
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 0,
-              "spread": 1.6,
-              "appliedRate": 1366,
-              "receivedAmount": 2196.19,
-              "totalCost": 48000
+              "spread": 1.07,
+              "appliedRate": 1356,
+              "receivedAmount": 2212.39,
+              "totalCost": 32100
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 0,
-              "spread": 1.6,
-              "appliedRate": 1366,
-              "receivedAmount": 3660.32,
-              "totalCost": 80000
+              "spread": 1.07,
+              "appliedRate": 1356,
+              "receivedAmount": 3687.32,
+              "totalCost": 53500
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 0,
-              "spread": 1.6,
-              "appliedRate": 1366,
-              "receivedAmount": 7320.64,
-              "totalCost": 160000
+              "spread": 1.07,
+              "appliedRate": 1356,
+              "receivedAmount": 7374.63,
+              "totalCost": 107000
             }
           },
-          "totalCost": 16000,
-          "foreignAmount": 732.06
+          "totalCost": 10700,
+          "foreignAmount": 737.46
+        },
+        {
+          "id": "moin",
+          "name": "MOIN",
+          "kr": "모인",
+          "supported": true,
+          "fee": 12000,
+          "spread": 0,
+          "appliedRate": 1342,
+          "receivedAmount": 735.42,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 7100,
+              "fixedFee": 5000,
+              "flexibleFee": 2100,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 218.02
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 12000,
+              "fixedFee": 5000,
+              "flexibleFee": 7000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 735.42
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 26000,
+              "fixedFee": 5000,
+              "flexibleFee": 21000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 2213.69
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 40000,
+              "fixedFee": 5000,
+              "flexibleFee": 35000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 3691.97
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 75000,
+              "fixedFee": 5000,
+              "flexibleFee": 70000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 7387.66
+            }
+          },
+          "promotions": "환율우대 100%",
+          "note": "수수료율 0.7%",
+          "totalCost": 12000,
+          "foreignAmount": 736.21
+        },
+        {
+          "id": "toss",
+          "name": "토스",
+          "kr": "토스",
+          "supported": true,
+          "fee": 12000,
+          "spread": 0,
+          "appliedRate": 1342,
+          "receivedAmount": 735.42,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 7100,
+              "fixedFee": 5000,
+              "flexibleFee": 2100,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 218.02
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 12000,
+              "fixedFee": 5000,
+              "flexibleFee": 7000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 735.42
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 26000,
+              "fixedFee": 5000,
+              "flexibleFee": 21000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 2213.69
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 40000,
+              "fixedFee": 5000,
+              "flexibleFee": 35000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 3691.97
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 75000,
+              "fixedFee": 5000,
+              "flexibleFee": 70000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 1342,
+              "receivedAmount": 7387.66
+            }
+          },
+          "promotions": "모인 해외송금 연동",
+          "note": "모인 연동, 동일 환율",
+          "totalCost": 12000,
+          "foreignAmount": 736.21
         },
         {
           "id": "hana",
@@ -448,56 +448,56 @@
           "kr": "하나은행",
           "supported": true,
           "fee": 13000,
-          "spread": 0.975,
-          "appliedRate": 1357,
+          "spread": 0.976,
+          "appliedRate": 1356,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩1,343.4, 전신료 포함",
+          "note": "매매기준율 ₩1,342.8, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
-              "spread": 0.975,
-              "appliedRate": 1357,
-              "receivedAmount": 211.5,
-              "totalCost": 15925
+              "spread": 0.976,
+              "appliedRate": 1356,
+              "receivedAmount": 211.65,
+              "totalCost": 15928
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
-              "spread": 0.975,
-              "appliedRate": 1357,
-              "receivedAmount": 727.34,
-              "totalCost": 22750
+              "spread": 0.976,
+              "appliedRate": 1356,
+              "receivedAmount": 727.88,
+              "totalCost": 22760
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
-              "spread": 0.975,
-              "appliedRate": 1357,
-              "receivedAmount": 2201.18,
-              "totalCost": 42250
+              "spread": 0.976,
+              "appliedRate": 1356,
+              "receivedAmount": 2202.8,
+              "totalCost": 42280
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
-              "spread": 0.975,
-              "appliedRate": 1357,
-              "receivedAmount": 3675.02,
-              "totalCost": 61750
+              "spread": 0.976,
+              "appliedRate": 1356,
+              "receivedAmount": 3677.73,
+              "totalCost": 61800
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
-              "spread": 0.975,
-              "appliedRate": 1357,
-              "receivedAmount": 7359.62,
-              "totalCost": 110500
+              "spread": 0.976,
+              "appliedRate": 1356,
+              "receivedAmount": 7365.04,
+              "totalCost": 110600
             }
           },
-          "totalCost": 22750,
-          "foreignAmount": 727.34
+          "totalCost": 22760,
+          "foreignAmount": 727.88
         },
         {
           "id": "shinhan",
@@ -506,7 +506,7 @@
           "supported": true,
           "fee": 18000,
           "spread": 1.75,
-          "appliedRate": 1368,
+          "appliedRate": 1365,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 수수료 50% 할인",
           "note": "전신료+송금수수료 포함",
@@ -516,367 +516,60 @@
               "sendAmount": 300000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 1368,
-              "receivedAmount": 206.14,
+              "appliedRate": 1365,
+              "receivedAmount": 206.59,
               "totalCost": 23250
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 1368,
-              "receivedAmount": 717.84,
+              "appliedRate": 1365,
+              "receivedAmount": 719.41,
               "totalCost": 35500
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 1368,
-              "receivedAmount": 2179.82,
+              "appliedRate": 1365,
+              "receivedAmount": 2184.62,
               "totalCost": 70500
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 1368,
-              "receivedAmount": 3641.81,
+              "appliedRate": 1365,
+              "receivedAmount": 3649.82,
               "totalCost": 105500
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 1368,
-              "receivedAmount": 7296.78,
+              "appliedRate": 1365,
+              "receivedAmount": 7312.82,
               "totalCost": 193000
             }
           },
           "totalCost": 35500,
-          "foreignAmount": 717.84
+          "foreignAmount": 719.41
         }
       ]
     },
     "JPY": {
-      "midRate": 846,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "midRate": 844,
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
-        {
-          "id": "wise",
-          "name": "Wise",
-          "kr": "와이즈",
-          "supported": true,
-          "fee": 5000,
-          "spread": 0.5,
-          "appliedRate": 850,
-          "speed": "—",
-          "promotions": "",
-          "note": "데이터 미확인",
-          "source": "default",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 34705.88,
-              "totalCost": 6500
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 117058.82,
-              "totalCost": 10000
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 352352.94,
-              "totalCost": 20000
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 587647.06,
-              "totalCost": 30000
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 1175882.35,
-              "totalCost": 55000
-            }
-          },
-          "totalCost": 10000,
-          "foreignAmount": 117058.82
-        },
-        {
-          "id": "paypal",
-          "name": "PayPal",
-          "kr": "페이팔",
-          "supported": true,
-          "fee": 5000,
-          "spread": 0.5,
-          "appliedRate": 850,
-          "speed": "—",
-          "promotions": "",
-          "note": "데이터 미확인",
-          "source": "default",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 34705.88,
-              "totalCost": 6500
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 117058.82,
-              "totalCost": 10000
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 352352.94,
-              "totalCost": 20000
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 587647.06,
-              "totalCost": 30000
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 850,
-              "receivedAmount": 1175882.35,
-              "totalCost": 55000
-            }
-          },
-          "totalCost": 10000,
-          "foreignAmount": 117058.82
-        },
-        {
-          "id": "sentbe",
-          "name": "SentBe",
-          "kr": "센트비",
-          "supported": true,
-          "fee": 2500,
-          "spread": 0.946,
-          "appliedRate": 854,
-          "speed": "5분~2일",
-          "promotions": "",
-          "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
-          "source": "sentbe-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 2500,
-              "spread": 0.946,
-              "appliedRate": 854,
-              "receivedAmount": 34836.07,
-              "totalCost": 5338
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 2500,
-              "spread": 0.946,
-              "appliedRate": 854,
-              "receivedAmount": 116803.28,
-              "totalCost": 11960
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 2500,
-              "spread": 0.946,
-              "appliedRate": 854,
-              "receivedAmount": 350995.32,
-              "totalCost": 30880
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 2500,
-              "spread": 0.946,
-              "appliedRate": 854,
-              "receivedAmount": 585187.35,
-              "totalCost": 49800
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 2500,
-              "spread": 0.946,
-              "appliedRate": 854,
-              "receivedAmount": 1170667.45,
-              "totalCost": 97100
-            }
-          },
-          "totalCost": 11960,
-          "foreignAmount": 116803.28
-        },
-        {
-          "id": "moin",
-          "name": "MOIN",
-          "kr": "모인",
-          "supported": true,
-          "fee": 16600,
-          "spread": 0,
-          "appliedRate": 843,
-          "receivedAmount": 116572,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 8480,
-              "fixedFee": 5000,
-              "flexibleFee": 3480,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 34557
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 16600,
-              "fixedFee": 5000,
-              "flexibleFee": 11600,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 116572
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 39800,
-              "fixedFee": 5000,
-              "flexibleFee": 34800,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 350901
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 63000,
-              "fixedFee": 5000,
-              "flexibleFee": 58000,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 585231
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 121000,
-              "fixedFee": 5000,
-              "flexibleFee": 116000,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 1171054
-            }
-          },
-          "promotions": "환율우대 100%",
-          "note": "수수료율 1.2%",
-          "totalCost": 16600,
-          "foreignAmount": 116654.8
-        },
-        {
-          "id": "toss",
-          "name": "토스",
-          "kr": "토스",
-          "supported": true,
-          "fee": 16600,
-          "spread": 0,
-          "appliedRate": 843,
-          "receivedAmount": 116572,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 8480,
-              "fixedFee": 5000,
-              "flexibleFee": 3480,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 34557
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 16600,
-              "fixedFee": 5000,
-              "flexibleFee": 11600,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 116572
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 39800,
-              "fixedFee": 5000,
-              "flexibleFee": 34800,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 350901
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 63000,
-              "fixedFee": 5000,
-              "flexibleFee": 58000,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 585231
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 121000,
-              "fixedFee": 5000,
-              "flexibleFee": 116000,
-              "feeRate": 0.0116,
-              "spread": 0,
-              "appliedRate": 843,
-              "receivedAmount": 1171054
-            }
-          },
-          "promotions": "",
-          "note": "모인 연동, 동일 환율",
-          "totalCost": 16600,
-          "foreignAmount": 116654.8
-        },
         {
           "id": "wirebarley",
           "name": "WireBarley",
           "kr": "와이어바알리",
           "supported": true,
           "fee": 0,
-          "spread": 1.75,
-          "appliedRate": 861,
+          "spread": 0.91,
+          "appliedRate": 852,
           "speed": "1~3일",
           "promotions": "",
           "note": "100엔 기준",
@@ -885,46 +578,353 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 5000,
-              "spread": 1.75,
-              "appliedRate": 861,
-              "receivedAmount": 34262.49,
-              "totalCost": 10250
+              "spread": 0.91,
+              "appliedRate": 852,
+              "receivedAmount": 34624.41,
+              "totalCost": 7730
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 0,
-              "spread": 1.75,
-              "appliedRate": 861,
-              "receivedAmount": 116144.02,
-              "totalCost": 17500
+              "spread": 0.91,
+              "appliedRate": 852,
+              "receivedAmount": 117370.89,
+              "totalCost": 9100
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 0,
-              "spread": 1.75,
-              "appliedRate": 861,
-              "receivedAmount": 348432.06,
-              "totalCost": 52500
+              "spread": 0.91,
+              "appliedRate": 852,
+              "receivedAmount": 352112.68,
+              "totalCost": 27300
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 0,
-              "spread": 1.75,
-              "appliedRate": 861,
-              "receivedAmount": 580720.09,
-              "totalCost": 87500
+              "spread": 0.91,
+              "appliedRate": 852,
+              "receivedAmount": 586854.46,
+              "totalCost": 45500
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 0,
-              "spread": 1.75,
-              "appliedRate": 861,
-              "receivedAmount": 1161440.19,
-              "totalCost": 175000
+              "spread": 0.91,
+              "appliedRate": 852,
+              "receivedAmount": 1173708.92,
+              "totalCost": 91000
             }
           },
-          "totalCost": 17500,
-          "foreignAmount": 116144.02
+          "totalCost": 9100,
+          "foreignAmount": 117370.89
+        },
+        {
+          "id": "wise",
+          "name": "Wise",
+          "kr": "와이즈",
+          "supported": true,
+          "fee": 5000,
+          "spread": 0.5,
+          "appliedRate": 848,
+          "speed": "—",
+          "promotions": "",
+          "note": "데이터 미확인",
+          "source": "default",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 34787.74,
+              "totalCost": 6500
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 117334.91,
+              "totalCost": 10000
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 353183.96,
+              "totalCost": 20000
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 589033.02,
+              "totalCost": 30000
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 1178655.66,
+              "totalCost": 55000
+            }
+          },
+          "totalCost": 10000,
+          "foreignAmount": 117334.91
+        },
+        {
+          "id": "paypal",
+          "name": "PayPal",
+          "kr": "페이팔",
+          "supported": true,
+          "fee": 5000,
+          "spread": 0.5,
+          "appliedRate": 848,
+          "speed": "—",
+          "promotions": "",
+          "note": "데이터 미확인",
+          "source": "default",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 34787.74,
+              "totalCost": 6500
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 117334.91,
+              "totalCost": 10000
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 353183.96,
+              "totalCost": 20000
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 589033.02,
+              "totalCost": 30000
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 848,
+              "receivedAmount": 1178655.66,
+              "totalCost": 55000
+            }
+          },
+          "totalCost": 10000,
+          "foreignAmount": 117334.91
+        },
+        {
+          "id": "sentbe",
+          "name": "SentBe",
+          "kr": "센트비",
+          "supported": true,
+          "fee": 2500,
+          "spread": 1.066,
+          "appliedRate": 853,
+          "speed": "5분~2일",
+          "promotions": "",
+          "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
+          "source": "sentbe-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 2500,
+              "spread": 1.066,
+              "appliedRate": 853,
+              "receivedAmount": 34876.91,
+              "totalCost": 5698
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 2500,
+              "spread": 1.066,
+              "appliedRate": 853,
+              "receivedAmount": 116940.21,
+              "totalCost": 13160
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 2500,
+              "spread": 1.066,
+              "appliedRate": 853,
+              "receivedAmount": 351406.8,
+              "totalCost": 34480
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 2500,
+              "spread": 1.066,
+              "appliedRate": 853,
+              "receivedAmount": 585873.39,
+              "totalCost": 55800
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 2500,
+              "spread": 1.066,
+              "appliedRate": 853,
+              "receivedAmount": 1172039.86,
+              "totalCost": 109100
+            }
+          },
+          "totalCost": 13160,
+          "foreignAmount": 116940.21
+        },
+        {
+          "id": "moin",
+          "name": "MOIN",
+          "kr": "모인",
+          "supported": true,
+          "fee": 16600,
+          "spread": 0,
+          "appliedRate": 842,
+          "receivedAmount": 116760,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 8480,
+              "fixedFee": 5000,
+              "flexibleFee": 3480,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 34613
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 16600,
+              "fixedFee": 5000,
+              "flexibleFee": 11600,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 116760
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 39800,
+              "fixedFee": 5000,
+              "flexibleFee": 34800,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 351468
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 63000,
+              "fixedFee": 5000,
+              "flexibleFee": 58000,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 586176
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 121000,
+              "fixedFee": 5000,
+              "flexibleFee": 116000,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 1172945
+            }
+          },
+          "promotions": "환율우대 100%",
+          "note": "수수료율 1.2%",
+          "totalCost": 16600,
+          "foreignAmount": 116793.35
+        },
+        {
+          "id": "toss",
+          "name": "토스",
+          "kr": "토스",
+          "supported": true,
+          "fee": 16600,
+          "spread": 0,
+          "appliedRate": 842,
+          "receivedAmount": 116760,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 8480,
+              "fixedFee": 5000,
+              "flexibleFee": 3480,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 34613
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 16600,
+              "fixedFee": 5000,
+              "flexibleFee": 11600,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 116760
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 39800,
+              "fixedFee": 5000,
+              "flexibleFee": 34800,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 351468
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 63000,
+              "fixedFee": 5000,
+              "flexibleFee": 58000,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 586176
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 121000,
+              "fixedFee": 5000,
+              "flexibleFee": 116000,
+              "feeRate": 0.0116,
+              "spread": 0,
+              "appliedRate": 842,
+              "receivedAmount": 1172945
+            }
+          },
+          "promotions": "",
+          "note": "모인 연동, 동일 환율",
+          "totalCost": 16600,
+          "foreignAmount": 116793.35
         },
         {
           "id": "hana",
@@ -932,55 +932,55 @@
           "kr": "하나은행",
           "supported": true,
           "fee": 13000,
-          "spread": 0.98,
+          "spread": 0.979,
           "appliedRate": 851,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩843.08, 전신료 포함",
+          "note": "매매기준율 ₩842.3, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
-              "spread": 0.98,
+              "spread": 0.979,
               "appliedRate": 851,
               "receivedAmount": 33725.03,
-              "totalCost": 15940
+              "totalCost": 15937
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
-              "spread": 0.98,
+              "spread": 0.979,
               "appliedRate": 851,
               "receivedAmount": 115981.2,
-              "totalCost": 22800
+              "totalCost": 22790
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
-              "spread": 0.98,
+              "spread": 0.979,
               "appliedRate": 851,
               "receivedAmount": 350998.82,
-              "totalCost": 42400
+              "totalCost": 42370
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
-              "spread": 0.98,
+              "spread": 0.979,
               "appliedRate": 851,
               "receivedAmount": 586016.45,
-              "totalCost": 62000
+              "totalCost": 61950
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
-              "spread": 0.98,
+              "spread": 0.979,
               "appliedRate": 851,
               "receivedAmount": 1173560.52,
-              "totalCost": 111000
+              "totalCost": 110900
             }
           },
-          "totalCost": 22800,
+          "totalCost": 22790,
           "foreignAmount": 115981.2
         },
         {
@@ -990,7 +990,7 @@
           "supported": true,
           "fee": 18000,
           "spread": 1.6,
-          "appliedRate": 860,
+          "appliedRate": 858,
           "speed": "1~3일",
           "promotions": "",
           "note": "100엔 기준, 전신료+수수료 포함",
@@ -1000,52 +1000,109 @@
               "sendAmount": 300000,
               "fee": 18000,
               "spread": 1.6,
-              "appliedRate": 860,
-              "receivedAmount": 32790.7,
+              "appliedRate": 858,
+              "receivedAmount": 32867.13,
               "totalCost": 22800
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 18000,
               "spread": 1.6,
-              "appliedRate": 860,
-              "receivedAmount": 114186.05,
+              "appliedRate": 858,
+              "receivedAmount": 114452.21,
               "totalCost": 34000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 18000,
               "spread": 1.6,
-              "appliedRate": 860,
-              "receivedAmount": 346744.19,
+              "appliedRate": 858,
+              "receivedAmount": 347552.45,
               "totalCost": 66000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 18000,
               "spread": 1.6,
-              "appliedRate": 860,
-              "receivedAmount": 579302.33,
+              "appliedRate": 858,
+              "receivedAmount": 580652.68,
               "totalCost": 98000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 18000,
               "spread": 1.6,
-              "appliedRate": 860,
-              "receivedAmount": 1160697.67,
+              "appliedRate": 858,
+              "receivedAmount": 1163403.26,
               "totalCost": 178000
             }
           },
           "totalCost": 34000,
-          "foreignAmount": 114186.05
+          "foreignAmount": 114452.21
         }
       ]
     },
     "EUR": {
       "midRate": 1473,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
+        {
+          "id": "wirebarley",
+          "name": "WireBarley",
+          "kr": "와이어바알리",
+          "supported": true,
+          "fee": 0,
+          "spread": 0.53,
+          "appliedRate": 1481,
+          "speed": "1~3일",
+          "promotions": "",
+          "note": "",
+          "source": "fixed",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.53,
+              "appliedRate": 1481,
+              "receivedAmount": 199.19,
+              "totalCost": 6590
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 0,
+              "spread": 0.53,
+              "appliedRate": 1481,
+              "receivedAmount": 675.22,
+              "totalCost": 5300
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 0,
+              "spread": 0.53,
+              "appliedRate": 1481,
+              "receivedAmount": 2025.66,
+              "totalCost": 15900
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 0,
+              "spread": 0.53,
+              "appliedRate": 1481,
+              "receivedAmount": 3376.1,
+              "totalCost": 26500
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 0,
+              "spread": 0.53,
+              "appliedRate": 1481,
+              "receivedAmount": 6752.19,
+              "totalCost": 53000
+            }
+          },
+          "totalCost": 5300,
+          "foreignAmount": 675.22
+        },
         {
           "id": "wise",
           "name": "Wise",
@@ -1167,8 +1224,8 @@
           "supported": true,
           "fee": 12300,
           "spread": 0,
-          "appliedRate": 1465,
-          "receivedAmount": 673.08,
+          "appliedRate": 1469,
+          "receivedAmount": 671.41,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -1179,8 +1236,8 @@
               "flexibleFee": 2190,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 199.54
+              "appliedRate": 1469,
+              "receivedAmount": 199.04
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -1189,8 +1246,8 @@
               "flexibleFee": 7300,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 673.08
+              "appliedRate": 1469,
+              "receivedAmount": 671.41
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -1199,8 +1256,8 @@
               "flexibleFee": 21900,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 2026.05
+              "appliedRate": 1469,
+              "receivedAmount": 2021.03
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -1209,8 +1266,8 @@
               "flexibleFee": 36500,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 3379.01
+              "appliedRate": 1469,
+              "receivedAmount": 3370.65
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -1219,14 +1276,14 @@
               "flexibleFee": 73000,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 6761.44
+              "appliedRate": 1469,
+              "receivedAmount": 6744.7
             }
           },
           "promotions": "",
           "note": "수수료율 0.7%",
           "totalCost": 12300,
-          "foreignAmount": 674.2
+          "foreignAmount": 672.36
         },
         {
           "id": "toss",
@@ -1235,8 +1292,8 @@
           "supported": true,
           "fee": 12300,
           "spread": 0,
-          "appliedRate": 1465,
-          "receivedAmount": 673.08,
+          "appliedRate": 1469,
+          "receivedAmount": 671.41,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -1247,8 +1304,8 @@
               "flexibleFee": 2190,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 199.54
+              "appliedRate": 1469,
+              "receivedAmount": 199.04
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -1257,8 +1314,8 @@
               "flexibleFee": 7300,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 673.08
+              "appliedRate": 1469,
+              "receivedAmount": 671.41
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -1267,8 +1324,8 @@
               "flexibleFee": 21900,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 2026.05
+              "appliedRate": 1469,
+              "receivedAmount": 2021.03
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -1277,8 +1334,8 @@
               "flexibleFee": 36500,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 3379.01
+              "appliedRate": 1469,
+              "receivedAmount": 3370.65
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -1287,14 +1344,14 @@
               "flexibleFee": 73000,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1465,
-              "receivedAmount": 6761.44
+              "appliedRate": 1469,
+              "receivedAmount": 6744.7
             }
           },
           "promotions": "",
           "note": "모인 연동, 동일 환율",
           "totalCost": 12300,
-          "foreignAmount": 674.2
+          "foreignAmount": 672.36
         },
         {
           "id": "sentbe",
@@ -1302,8 +1359,8 @@
           "kr": "센트비",
           "supported": true,
           "fee": 2500,
-          "spread": 1.426,
-          "appliedRate": 1494,
+          "spread": 1.697,
+          "appliedRate": 1498,
           "speed": "5분~2일",
           "promotions": "",
           "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
@@ -1312,103 +1369,46 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 2500,
-              "spread": 1.426,
-              "appliedRate": 1494,
-              "receivedAmount": 199.13,
-              "totalCost": 6778
+              "spread": 1.697,
+              "appliedRate": 1498,
+              "receivedAmount": 198.6,
+              "totalCost": 7591
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 2500,
-              "spread": 1.426,
-              "appliedRate": 1494,
-              "receivedAmount": 667.67,
-              "totalCost": 16760
+              "spread": 1.697,
+              "appliedRate": 1498,
+              "receivedAmount": 665.89,
+              "totalCost": 19470
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 2500,
-              "spread": 1.426,
-              "appliedRate": 1494,
-              "receivedAmount": 2006.36,
-              "totalCost": 45280
+              "spread": 1.697,
+              "appliedRate": 1498,
+              "receivedAmount": 2001,
+              "totalCost": 53410
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 2500,
-              "spread": 1.426,
-              "appliedRate": 1494,
-              "receivedAmount": 3345.05,
-              "totalCost": 73800
+              "spread": 1.697,
+              "appliedRate": 1498,
+              "receivedAmount": 3336.11,
+              "totalCost": 87350
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 2500,
-              "spread": 1.426,
-              "appliedRate": 1494,
-              "receivedAmount": 6691.77,
-              "totalCost": 145100
+              "spread": 1.697,
+              "appliedRate": 1498,
+              "receivedAmount": 6673.9,
+              "totalCost": 172200
             }
           },
-          "totalCost": 16760,
-          "foreignAmount": 667.67
-        },
-        {
-          "id": "wirebarley",
-          "name": "WireBarley",
-          "kr": "와이어바알리",
-          "supported": true,
-          "fee": 0,
-          "spread": 1.77,
-          "appliedRate": 1499,
-          "speed": "1~3일",
-          "promotions": "",
-          "note": "",
-          "source": "fixed",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 1.77,
-              "appliedRate": 1499,
-              "receivedAmount": 196.8,
-              "totalCost": 10310
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 0,
-              "spread": 1.77,
-              "appliedRate": 1499,
-              "receivedAmount": 667.11,
-              "totalCost": 17700
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 0,
-              "spread": 1.77,
-              "appliedRate": 1499,
-              "receivedAmount": 2001.33,
-              "totalCost": 53100
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 0,
-              "spread": 1.77,
-              "appliedRate": 1499,
-              "receivedAmount": 3335.56,
-              "totalCost": 88500
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 0,
-              "spread": 1.77,
-              "appliedRate": 1499,
-              "receivedAmount": 6671.11,
-              "totalCost": 177000
-            }
-          },
-          "totalCost": 17700,
-          "foreignAmount": 667.11
+          "totalCost": 19470,
+          "foreignAmount": 665.89
         },
         {
           "id": "hana",
@@ -1416,56 +1416,56 @@
           "kr": "하나은행",
           "supported": true,
           "fee": 13000,
-          "spread": 0.999,
-          "appliedRate": 1480,
+          "spread": 1,
+          "appliedRate": 1484,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩1,464.91, 전신료 포함",
+          "note": "매매기준율 ₩1,469.29, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 1480,
-              "receivedAmount": 193.92,
-              "totalCost": 15997
+              "spread": 1,
+              "appliedRate": 1484,
+              "receivedAmount": 193.4,
+              "totalCost": 16000
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 1480,
-              "receivedAmount": 666.89,
-              "totalCost": 22990
+              "spread": 1,
+              "appliedRate": 1484,
+              "receivedAmount": 665.09,
+              "totalCost": 23000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 1480,
-              "receivedAmount": 2018.24,
-              "totalCost": 42970
+              "spread": 1,
+              "appliedRate": 1484,
+              "receivedAmount": 2012.8,
+              "totalCost": 43000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 1480,
-              "receivedAmount": 3369.59,
-              "totalCost": 62950
+              "spread": 1,
+              "appliedRate": 1484,
+              "receivedAmount": 3360.51,
+              "totalCost": 63000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 1480,
-              "receivedAmount": 6747.97,
-              "totalCost": 112900
+              "spread": 1,
+              "appliedRate": 1484,
+              "receivedAmount": 6729.78,
+              "totalCost": 113000
             }
           },
-          "totalCost": 22990,
-          "foreignAmount": 666.89
+          "totalCost": 23000,
+          "foreignAmount": 665.09
         },
         {
           "id": "shinhan",
@@ -1528,64 +1528,64 @@
     },
     "GBP": {
       "midRate": 1761,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
         {
-          "id": "sentbe",
-          "name": "SentBe",
-          "kr": "센트비",
+          "id": "wirebarley",
+          "name": "WireBarley",
+          "kr": "와이어바알리",
           "supported": true,
-          "fee": 2500,
-          "spread": 0.454,
-          "appliedRate": 1769,
-          "speed": "5분~2일",
+          "fee": 0,
+          "spread": 0.56,
+          "appliedRate": 1771,
+          "speed": "1~3일",
           "promotions": "",
-          "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
-          "source": "sentbe-api",
+          "note": "",
+          "source": "fixed",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
-              "fee": 2500,
-              "spread": 0.454,
-              "appliedRate": 1769,
-              "receivedAmount": 168.17,
-              "totalCost": 3862
+              "fee": 5000,
+              "spread": 0.56,
+              "appliedRate": 1771,
+              "receivedAmount": 166.57,
+              "totalCost": 6680
             },
             "1000000": {
               "sendAmount": 1000000,
-              "fee": 2500,
-              "spread": 0.454,
-              "appliedRate": 1769,
-              "receivedAmount": 563.88,
-              "totalCost": 7040
+              "fee": 0,
+              "spread": 0.56,
+              "appliedRate": 1771,
+              "receivedAmount": 564.65,
+              "totalCost": 5600
             },
             "3000000": {
               "sendAmount": 3000000,
-              "fee": 2500,
-              "spread": 0.454,
-              "appliedRate": 1769,
-              "receivedAmount": 1694.46,
-              "totalCost": 16120
+              "fee": 0,
+              "spread": 0.56,
+              "appliedRate": 1771,
+              "receivedAmount": 1693.96,
+              "totalCost": 16800
             },
             "5000000": {
               "sendAmount": 5000000,
-              "fee": 2500,
-              "spread": 0.454,
-              "appliedRate": 1769,
-              "receivedAmount": 2825.04,
-              "totalCost": 25200
+              "fee": 0,
+              "spread": 0.56,
+              "appliedRate": 1771,
+              "receivedAmount": 2823.26,
+              "totalCost": 28000
             },
             "10000000": {
               "sendAmount": 10000000,
-              "fee": 2500,
-              "spread": 0.454,
-              "appliedRate": 1769,
-              "receivedAmount": 5651.5,
-              "totalCost": 47900
+              "fee": 0,
+              "spread": 0.56,
+              "appliedRate": 1771,
+              "receivedAmount": 5646.53,
+              "totalCost": 56000
             }
           },
-          "totalCost": 7040,
-          "foreignAmount": 563.88
+          "totalCost": 5600,
+          "foreignAmount": 564.65
         },
         {
           "id": "wise",
@@ -1702,14 +1702,71 @@
           "foreignAmount": 562.15
         },
         {
+          "id": "sentbe",
+          "name": "SentBe",
+          "kr": "센트비",
+          "supported": true,
+          "fee": 2500,
+          "spread": 0.795,
+          "appliedRate": 1775,
+          "speed": "5분~2일",
+          "promotions": "",
+          "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
+          "source": "sentbe-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 2500,
+              "spread": 0.795,
+              "appliedRate": 1775,
+              "receivedAmount": 167.61,
+              "totalCost": 4885
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 2500,
+              "spread": 0.795,
+              "appliedRate": 1775,
+              "receivedAmount": 561.97,
+              "totalCost": 10450
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 2500,
+              "spread": 0.795,
+              "appliedRate": 1775,
+              "receivedAmount": 1688.73,
+              "totalCost": 26350
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 2500,
+              "spread": 0.795,
+              "appliedRate": 1775,
+              "receivedAmount": 2815.49,
+              "totalCost": 42250
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 2500,
+              "spread": 0.795,
+              "appliedRate": 1775,
+              "receivedAmount": 5632.39,
+              "totalCost": 82000
+            }
+          },
+          "totalCost": 10450,
+          "foreignAmount": 561.97
+        },
+        {
           "id": "moin",
           "name": "MOIN",
           "kr": "모인",
           "supported": true,
           "fee": 12200,
           "spread": 0,
-          "appliedRate": 1752,
-          "receivedAmount": 563.29,
+          "appliedRate": 1757,
+          "receivedAmount": 561.84,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -1720,8 +1777,8 @@
               "flexibleFee": 2190,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 167.03
+              "appliedRate": 1757,
+              "receivedAmount": 166.6
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -1730,8 +1787,8 @@
               "flexibleFee": 7300,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 563.29
+              "appliedRate": 1757,
+              "receivedAmount": 561.84
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -1740,8 +1797,8 @@
               "flexibleFee": 21900,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 1695.46
+              "appliedRate": 1757,
+              "receivedAmount": 1691.09
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -1750,8 +1807,8 @@
               "flexibleFee": 36500,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 2827.63
+              "appliedRate": 1757,
+              "receivedAmount": 2820.34
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -1760,14 +1817,14 @@
               "flexibleFee": 73000,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 5658.06
+              "appliedRate": 1757,
+              "receivedAmount": 5643.47
             }
           },
           "promotions": "",
           "note": "수수료율 0.7%",
           "totalCost": 12200,
-          "foreignAmount": 563.81
+          "foreignAmount": 562.21
         },
         {
           "id": "toss",
@@ -1776,8 +1833,8 @@
           "supported": true,
           "fee": 12200,
           "spread": 0,
-          "appliedRate": 1752,
-          "receivedAmount": 563.29,
+          "appliedRate": 1757,
+          "receivedAmount": 561.84,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -1788,8 +1845,8 @@
               "flexibleFee": 2190,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 167.03
+              "appliedRate": 1757,
+              "receivedAmount": 166.6
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -1798,8 +1855,8 @@
               "flexibleFee": 7300,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 563.29
+              "appliedRate": 1757,
+              "receivedAmount": 561.84
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -1808,8 +1865,8 @@
               "flexibleFee": 21900,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 1695.46
+              "appliedRate": 1757,
+              "receivedAmount": 1691.09
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -1818,8 +1875,8 @@
               "flexibleFee": 36500,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 2827.63
+              "appliedRate": 1757,
+              "receivedAmount": 2820.34
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -1828,71 +1885,14 @@
               "flexibleFee": 73000,
               "feeRate": 0.0073,
               "spread": 0,
-              "appliedRate": 1752,
-              "receivedAmount": 5658.06
+              "appliedRate": 1757,
+              "receivedAmount": 5643.47
             }
           },
           "promotions": "",
           "note": "모인 연동, 동일 환율",
           "totalCost": 12200,
-          "foreignAmount": 563.81
-        },
-        {
-          "id": "wirebarley",
-          "name": "WireBarley",
-          "kr": "와이어바알리",
-          "supported": true,
-          "fee": 0,
-          "spread": 1.83,
-          "appliedRate": 1793,
-          "speed": "1~3일",
-          "promotions": "",
-          "note": "",
-          "source": "fixed",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 1.83,
-              "appliedRate": 1793,
-              "receivedAmount": 164.53,
-              "totalCost": 10490
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 0,
-              "spread": 1.83,
-              "appliedRate": 1793,
-              "receivedAmount": 557.72,
-              "totalCost": 18300
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 0,
-              "spread": 1.83,
-              "appliedRate": 1793,
-              "receivedAmount": 1673.17,
-              "totalCost": 54900
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 0,
-              "spread": 1.83,
-              "appliedRate": 1793,
-              "receivedAmount": 2788.62,
-              "totalCost": 91500
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 0,
-              "spread": 1.83,
-              "appliedRate": 1793,
-              "receivedAmount": 5577.24,
-              "totalCost": 183000
-            }
-          },
-          "totalCost": 18300,
-          "foreignAmount": 557.72
+          "foreignAmount": 562.21
         },
         {
           "id": "hana",
@@ -1901,55 +1901,55 @@
           "supported": true,
           "fee": 13000,
           "spread": 1,
-          "appliedRate": 1769,
+          "appliedRate": 1775,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩1,751.59, 전신료 포함",
+          "note": "매매기준율 ₩1,757.12, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 1769,
-              "receivedAmount": 162.24,
+              "appliedRate": 1775,
+              "receivedAmount": 161.69,
               "totalCost": 16000
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 1769,
-              "receivedAmount": 557.94,
+              "appliedRate": 1775,
+              "receivedAmount": 556.06,
               "totalCost": 23000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 1769,
-              "receivedAmount": 1688.52,
+              "appliedRate": 1775,
+              "receivedAmount": 1682.82,
               "totalCost": 43000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 1769,
-              "receivedAmount": 2819.11,
+              "appliedRate": 1775,
+              "receivedAmount": 2809.58,
               "totalCost": 63000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 1769,
-              "receivedAmount": 5645.56,
+              "appliedRate": 1775,
+              "receivedAmount": 5626.48,
               "totalCost": 113000
             }
           },
           "totalCost": 23000,
-          "foreignAmount": 557.94
+          "foreignAmount": 556.06
         },
         {
           "id": "shinhan",
@@ -2012,7 +2012,7 @@
     },
     "CNY": {
       "midRate": 201,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
         {
           "id": "wise",
@@ -2186,71 +2186,14 @@
           "foreignAmount": 4913.79
         },
         {
-          "id": "hana",
-          "name": "하나은행",
-          "kr": "하나은행",
-          "supported": true,
-          "fee": 13000,
-          "spread": 0.997,
-          "appliedRate": 204,
-          "speed": "1~3일",
-          "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩201.57, 전신료 포함",
-          "source": "hana-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 13000,
-              "spread": 0.997,
-              "appliedRate": 204,
-              "receivedAmount": 1406.86,
-              "totalCost": 15991
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 13000,
-              "spread": 0.997,
-              "appliedRate": 204,
-              "receivedAmount": 4838.24,
-              "totalCost": 22970
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 13000,
-              "spread": 0.997,
-              "appliedRate": 204,
-              "receivedAmount": 14642.16,
-              "totalCost": 42910
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 13000,
-              "spread": 0.997,
-              "appliedRate": 204,
-              "receivedAmount": 24446.08,
-              "totalCost": 62850
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 13000,
-              "spread": 0.997,
-              "appliedRate": 204,
-              "receivedAmount": 48955.88,
-              "totalCost": 112700
-            }
-          },
-          "totalCost": 22970,
-          "foreignAmount": 4838.24
-        },
-        {
           "id": "moin",
           "name": "MOIN",
           "kr": "모인",
           "supported": true,
           "fee": 19000,
-          "spread": 0.498,
-          "appliedRate": 202,
-          "receivedAmount": 4865,
+          "spread": 0,
+          "appliedRate": 201,
+          "receivedAmount": 4873,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -2260,9 +2203,9 @@
               "fixedFee": 12000,
               "flexibleFee": 2100,
               "feeRate": 0.007,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 1418
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 1420
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -2270,9 +2213,9 @@
               "fixedFee": 2000,
               "flexibleFee": 17000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 4865
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 4873
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -2280,9 +2223,9 @@
               "fixedFee": 2000,
               "flexibleFee": 51000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 14617
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 14639
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -2290,9 +2233,9 @@
               "fixedFee": 2000,
               "flexibleFee": 85000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 24368
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 24406
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -2300,15 +2243,15 @@
               "fixedFee": 2000,
               "flexibleFee": 170000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 48746
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 48822
             }
           },
           "promotions": "",
           "note": "수수료율 1.7%",
-          "totalCost": 23980,
-          "foreignAmount": 4856.44
+          "totalCost": 19000,
+          "foreignAmount": 4880.6
         },
         {
           "id": "toss",
@@ -2316,9 +2259,9 @@
           "kr": "토스",
           "supported": true,
           "fee": 19000,
-          "spread": 0.498,
-          "appliedRate": 202,
-          "receivedAmount": 4865,
+          "spread": 0,
+          "appliedRate": 201,
+          "receivedAmount": 4873,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -2328,9 +2271,9 @@
               "fixedFee": 12000,
               "flexibleFee": 2100,
               "feeRate": 0.007,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 1418
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 1420
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -2338,9 +2281,9 @@
               "fixedFee": 2000,
               "flexibleFee": 17000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 4865
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 4873
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -2348,9 +2291,9 @@
               "fixedFee": 2000,
               "flexibleFee": 51000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 14617
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 14639
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -2358,9 +2301,9 @@
               "fixedFee": 2000,
               "flexibleFee": 85000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 24368
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 24406
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -2368,15 +2311,72 @@
               "fixedFee": 2000,
               "flexibleFee": 170000,
               "feeRate": 0.017,
-              "spread": 0.498,
-              "appliedRate": 202,
-              "receivedAmount": 48746
+              "spread": 0,
+              "appliedRate": 201,
+              "receivedAmount": 48822
             }
           },
           "promotions": "",
           "note": "모인 연동, 동일 환율",
-          "totalCost": 23980,
-          "foreignAmount": 4856.44
+          "totalCost": 19000,
+          "foreignAmount": 4880.6
+        },
+        {
+          "id": "hana",
+          "name": "하나은행",
+          "kr": "하나은행",
+          "supported": true,
+          "fee": 13000,
+          "spread": 0.999,
+          "appliedRate": 203,
+          "speed": "1~3일",
+          "promotions": "인터넷뱅킹 환율우대 50%",
+          "note": "매매기준율 ₩201.3, 전신료 포함",
+          "source": "hana-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 13000,
+              "spread": 0.999,
+              "appliedRate": 203,
+              "receivedAmount": 1413.79,
+              "totalCost": 15997
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 13000,
+              "spread": 0.999,
+              "appliedRate": 203,
+              "receivedAmount": 4862.07,
+              "totalCost": 22990
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 13000,
+              "spread": 0.999,
+              "appliedRate": 203,
+              "receivedAmount": 14714.29,
+              "totalCost": 42970
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 13000,
+              "spread": 0.999,
+              "appliedRate": 203,
+              "receivedAmount": 24566.5,
+              "totalCost": 62950
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 13000,
+              "spread": 0.999,
+              "appliedRate": 203,
+              "receivedAmount": 49197.04,
+              "totalCost": 112900
+            }
+          },
+          "totalCost": 22990,
+          "foreignAmount": 4862.07
         },
         {
           "id": "shinhan",
@@ -2453,267 +2453,17 @@
       ]
     },
     "AUD": {
-      "midRate": 890,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "midRate": 891,
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
-        {
-          "id": "wise",
-          "name": "Wise",
-          "kr": "와이즈",
-          "supported": true,
-          "fee": 5000,
-          "spread": 0.5,
-          "appliedRate": 894,
-          "speed": "—",
-          "promotions": "",
-          "note": "데이터 미확인",
-          "source": "default",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 329.98,
-              "totalCost": 6500
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 1112.98,
-              "totalCost": 10000
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 3350.11,
-              "totalCost": 20000
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 5587.25,
-              "totalCost": 30000
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 11180.09,
-              "totalCost": 55000
-            }
-          },
-          "totalCost": 10000,
-          "foreignAmount": 1112.98
-        },
-        {
-          "id": "paypal",
-          "name": "PayPal",
-          "kr": "페이팔",
-          "supported": true,
-          "fee": 5000,
-          "spread": 0.5,
-          "appliedRate": 894,
-          "speed": "—",
-          "promotions": "",
-          "note": "데이터 미확인",
-          "source": "default",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 329.98,
-              "totalCost": 6500
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 1112.98,
-              "totalCost": 10000
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 3350.11,
-              "totalCost": 20000
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 5587.25,
-              "totalCost": 30000
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 5000,
-              "spread": 0.5,
-              "appliedRate": 894,
-              "receivedAmount": 11180.09,
-              "totalCost": 55000
-            }
-          },
-          "totalCost": 10000,
-          "foreignAmount": 1112.98
-        },
-        {
-          "id": "moin",
-          "name": "MOIN",
-          "kr": "모인",
-          "supported": true,
-          "fee": 11900,
-          "spread": 0.112,
-          "appliedRate": 891,
-          "receivedAmount": 1107.63,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 7000,
-              "fixedFee": 4900,
-              "flexibleFee": 2100,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 328.44
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 11900,
-              "fixedFee": 4900,
-              "flexibleFee": 7000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 1107.63
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 25900,
-              "fixedFee": 4900,
-              "flexibleFee": 21000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 3333.88
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 39900,
-              "fixedFee": 4900,
-              "flexibleFee": 35000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 5560.13
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 74900,
-              "fixedFee": 4900,
-              "flexibleFee": 70000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 11125.75
-            }
-          },
-          "promotions": "",
-          "note": "수수료율 0.7%",
-          "totalCost": 13020,
-          "foreignAmount": 1108.98
-        },
-        {
-          "id": "toss",
-          "name": "토스",
-          "kr": "토스",
-          "supported": true,
-          "fee": 11900,
-          "spread": 0.112,
-          "appliedRate": 891,
-          "receivedAmount": 1107.63,
-          "speed": "수 시간~1일",
-          "source": "moin-api",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 7000,
-              "fixedFee": 4900,
-              "flexibleFee": 2100,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 328.44
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 11900,
-              "fixedFee": 4900,
-              "flexibleFee": 7000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 1107.63
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 25900,
-              "fixedFee": 4900,
-              "flexibleFee": 21000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 3333.88
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 39900,
-              "fixedFee": 4900,
-              "flexibleFee": 35000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 5560.13
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 74900,
-              "fixedFee": 4900,
-              "flexibleFee": 70000,
-              "feeRate": 0.007,
-              "spread": 0.112,
-              "appliedRate": 891,
-              "receivedAmount": 11125.75
-            }
-          },
-          "promotions": "",
-          "note": "모인 연동, 동일 환율",
-          "totalCost": 13020,
-          "foreignAmount": 1108.98
-        },
         {
           "id": "sentbe",
           "name": "SentBe",
           "kr": "센트비",
           "supported": true,
           "fee": 2500,
-          "spread": 1.124,
-          "appliedRate": 900,
+          "spread": 0.337,
+          "appliedRate": 894,
           "speed": "5분~2일",
           "promotions": "",
           "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
@@ -2722,46 +2472,296 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 2500,
-              "spread": 1.124,
-              "appliedRate": 900,
-              "receivedAmount": 330.56,
-              "totalCost": 5872
+              "spread": 0.337,
+              "appliedRate": 894,
+              "receivedAmount": 332.77,
+              "totalCost": 3511
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 2500,
-              "spread": 1.124,
-              "appliedRate": 900,
-              "receivedAmount": 1108.33,
-              "totalCost": 13740
+              "spread": 0.337,
+              "appliedRate": 894,
+              "receivedAmount": 1115.77,
+              "totalCost": 5870
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 2500,
-              "spread": 1.124,
-              "appliedRate": 900,
-              "receivedAmount": 3330.56,
-              "totalCost": 36220
+              "spread": 0.337,
+              "appliedRate": 894,
+              "receivedAmount": 3352.91,
+              "totalCost": 12610
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 2500,
-              "spread": 1.124,
-              "appliedRate": 900,
-              "receivedAmount": 5552.78,
-              "totalCost": 58700
+              "spread": 0.337,
+              "appliedRate": 894,
+              "receivedAmount": 5590.04,
+              "totalCost": 19350
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 2500,
-              "spread": 1.124,
-              "appliedRate": 900,
-              "receivedAmount": 11108.33,
-              "totalCost": 114900
+              "spread": 0.337,
+              "appliedRate": 894,
+              "receivedAmount": 11182.89,
+              "totalCost": 36200
             }
           },
-          "totalCost": 13740,
-          "foreignAmount": 1108.33
+          "totalCost": 5870,
+          "foreignAmount": 1115.77
+        },
+        {
+          "id": "wise",
+          "name": "Wise",
+          "kr": "와이즈",
+          "supported": true,
+          "fee": 5000,
+          "spread": 0.5,
+          "appliedRate": 895,
+          "speed": "—",
+          "promotions": "",
+          "note": "데이터 미확인",
+          "source": "default",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 329.61,
+              "totalCost": 6500
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 1111.73,
+              "totalCost": 10000
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 3346.37,
+              "totalCost": 20000
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 5581.01,
+              "totalCost": 30000
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 11167.6,
+              "totalCost": 55000
+            }
+          },
+          "totalCost": 10000,
+          "foreignAmount": 1111.73
+        },
+        {
+          "id": "paypal",
+          "name": "PayPal",
+          "kr": "페이팔",
+          "supported": true,
+          "fee": 5000,
+          "spread": 0.5,
+          "appliedRate": 895,
+          "speed": "—",
+          "promotions": "",
+          "note": "데이터 미확인",
+          "source": "default",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 329.61,
+              "totalCost": 6500
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 1111.73,
+              "totalCost": 10000
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 3346.37,
+              "totalCost": 20000
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 5581.01,
+              "totalCost": 30000
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 5000,
+              "spread": 0.5,
+              "appliedRate": 895,
+              "receivedAmount": 11167.6,
+              "totalCost": 55000
+            }
+          },
+          "totalCost": 10000,
+          "foreignAmount": 1111.73
+        },
+        {
+          "id": "moin",
+          "name": "MOIN",
+          "kr": "모인",
+          "supported": true,
+          "fee": 11900,
+          "spread": 0,
+          "appliedRate": 885,
+          "receivedAmount": 1115.61,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 7000,
+              "fixedFee": 4900,
+              "flexibleFee": 2100,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 330.81
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 11900,
+              "fixedFee": 4900,
+              "flexibleFee": 7000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 1115.61
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 25900,
+              "fixedFee": 4900,
+              "flexibleFee": 21000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 3357.88
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 39900,
+              "fixedFee": 4900,
+              "flexibleFee": 35000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 5600.16
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 74900,
+              "fixedFee": 4900,
+              "flexibleFee": 70000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 11205.86
+            }
+          },
+          "promotions": "",
+          "note": "수수료율 0.7%",
+          "totalCost": 11900,
+          "foreignAmount": 1116.5
+        },
+        {
+          "id": "toss",
+          "name": "토스",
+          "kr": "토스",
+          "supported": true,
+          "fee": 11900,
+          "spread": 0,
+          "appliedRate": 885,
+          "receivedAmount": 1115.61,
+          "speed": "수 시간~1일",
+          "source": "moin-api",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 7000,
+              "fixedFee": 4900,
+              "flexibleFee": 2100,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 330.81
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 11900,
+              "fixedFee": 4900,
+              "flexibleFee": 7000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 1115.61
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 25900,
+              "fixedFee": 4900,
+              "flexibleFee": 21000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 3357.88
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 39900,
+              "fixedFee": 4900,
+              "flexibleFee": 35000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 5600.16
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 74900,
+              "fixedFee": 4900,
+              "flexibleFee": 70000,
+              "feeRate": 0.007,
+              "spread": 0,
+              "appliedRate": 885,
+              "receivedAmount": 11205.86
+            }
+          },
+          "promotions": "",
+          "note": "모인 연동, 동일 환율",
+          "totalCost": 11900,
+          "foreignAmount": 1116.5
         },
         {
           "id": "wirebarley",
@@ -2769,8 +2769,8 @@
           "kr": "와이어바알리",
           "supported": true,
           "fee": 0,
-          "spread": 1.76,
-          "appliedRate": 906,
+          "spread": 1.24,
+          "appliedRate": 902,
           "speed": "1~3일",
           "promotions": "",
           "note": "",
@@ -2779,46 +2779,46 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 5000,
-              "spread": 1.76,
-              "appliedRate": 906,
-              "receivedAmount": 325.61,
-              "totalCost": 10280
+              "spread": 1.24,
+              "appliedRate": 902,
+              "receivedAmount": 327.05,
+              "totalCost": 8720
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 0,
-              "spread": 1.76,
-              "appliedRate": 906,
-              "receivedAmount": 1103.75,
-              "totalCost": 17600
+              "spread": 1.24,
+              "appliedRate": 902,
+              "receivedAmount": 1108.65,
+              "totalCost": 12400
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 0,
-              "spread": 1.76,
-              "appliedRate": 906,
-              "receivedAmount": 3311.26,
-              "totalCost": 52800
+              "spread": 1.24,
+              "appliedRate": 902,
+              "receivedAmount": 3325.94,
+              "totalCost": 37200
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 0,
-              "spread": 1.76,
-              "appliedRate": 906,
-              "receivedAmount": 5518.76,
-              "totalCost": 88000
+              "spread": 1.24,
+              "appliedRate": 902,
+              "receivedAmount": 5543.24,
+              "totalCost": 62000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 0,
-              "spread": 1.76,
-              "appliedRate": 906,
-              "receivedAmount": 11037.53,
-              "totalCost": 176000
+              "spread": 1.24,
+              "appliedRate": 902,
+              "receivedAmount": 11086.47,
+              "totalCost": 124000
             }
           },
-          "totalCost": 17600,
-          "foreignAmount": 1103.75
+          "totalCost": 12400,
+          "foreignAmount": 1108.65
         },
         {
           "id": "hana",
@@ -2827,55 +2827,55 @@
           "supported": true,
           "fee": 13000,
           "spread": 1,
-          "appliedRate": 900,
+          "appliedRate": 894,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩891.01, 전신료 포함",
+          "note": "매매기준율 ₩885.04, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 900,
-              "receivedAmount": 318.89,
+              "appliedRate": 894,
+              "receivedAmount": 321.03,
               "totalCost": 16000
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 900,
-              "receivedAmount": 1096.67,
+              "appliedRate": 894,
+              "receivedAmount": 1104.03,
               "totalCost": 23000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 900,
-              "receivedAmount": 3318.89,
+              "appliedRate": 894,
+              "receivedAmount": 3341.16,
               "totalCost": 43000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 900,
-              "receivedAmount": 5541.11,
+              "appliedRate": 894,
+              "receivedAmount": 5578.3,
               "totalCost": 63000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
               "spread": 1,
-              "appliedRate": 900,
-              "receivedAmount": 11096.67,
+              "appliedRate": 894,
+              "receivedAmount": 11171.14,
               "totalCost": 113000
             }
           },
           "totalCost": 23000,
-          "foreignAmount": 1096.67
+          "foreignAmount": 1104.03
         },
         {
           "id": "shinhan",
@@ -2884,7 +2884,7 @@
           "supported": true,
           "fee": 18000,
           "spread": 1.75,
-          "appliedRate": 906,
+          "appliedRate": 907,
           "speed": "1~3일",
           "promotions": "",
           "note": "",
@@ -2894,52 +2894,109 @@
               "sendAmount": 300000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 906,
-              "receivedAmount": 311.26,
+              "appliedRate": 907,
+              "receivedAmount": 310.92,
               "totalCost": 23250
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 906,
-              "receivedAmount": 1083.89,
+              "appliedRate": 907,
+              "receivedAmount": 1082.69,
               "totalCost": 35500
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 906,
-              "receivedAmount": 3291.39,
+              "appliedRate": 907,
+              "receivedAmount": 3287.76,
               "totalCost": 70500
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 906,
-              "receivedAmount": 5498.9,
+              "appliedRate": 907,
+              "receivedAmount": 5492.83,
               "totalCost": 105500
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 906,
-              "receivedAmount": 11017.66,
+              "appliedRate": 907,
+              "receivedAmount": 11005.51,
               "totalCost": 193000
             }
           },
           "totalCost": 35500,
-          "foreignAmount": 1083.89
+          "foreignAmount": 1082.69
         }
       ]
     },
     "CAD": {
-      "midRate": 937,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "midRate": 939,
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
+        {
+          "id": "wirebarley",
+          "name": "WireBarley",
+          "kr": "와이어바알리",
+          "supported": true,
+          "fee": 0,
+          "spread": 0.99,
+          "appliedRate": 948,
+          "speed": "1~3일",
+          "promotions": "",
+          "note": "",
+          "source": "fixed",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.99,
+              "appliedRate": 948,
+              "receivedAmount": 311.18,
+              "totalCost": 7970
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 0,
+              "spread": 0.99,
+              "appliedRate": 948,
+              "receivedAmount": 1054.85,
+              "totalCost": 9900
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 0,
+              "spread": 0.99,
+              "appliedRate": 948,
+              "receivedAmount": 3164.56,
+              "totalCost": 29700
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 0,
+              "spread": 0.99,
+              "appliedRate": 948,
+              "receivedAmount": 5274.26,
+              "totalCost": 49500
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 0,
+              "spread": 0.99,
+              "appliedRate": 948,
+              "receivedAmount": 10548.52,
+              "totalCost": 99000
+            }
+          },
+          "totalCost": 9900,
+          "foreignAmount": 1054.85
+        },
         {
           "id": "wise",
           "name": "Wise",
@@ -2947,7 +3004,7 @@
           "supported": true,
           "fee": 5000,
           "spread": 0.5,
-          "appliedRate": 942,
+          "appliedRate": 944,
           "speed": "—",
           "promotions": "",
           "note": "데이터 미확인",
@@ -2957,45 +3014,45 @@
               "sendAmount": 300000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 313.16,
+              "appliedRate": 944,
+              "receivedAmount": 312.5,
               "totalCost": 6500
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 1056.26,
+              "appliedRate": 944,
+              "receivedAmount": 1054.03,
               "totalCost": 10000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 3179.41,
+              "appliedRate": 944,
+              "receivedAmount": 3172.67,
               "totalCost": 20000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 5302.55,
+              "appliedRate": 944,
+              "receivedAmount": 5291.31,
               "totalCost": 30000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 10610.4,
+              "appliedRate": 944,
+              "receivedAmount": 10587.92,
               "totalCost": 55000
             }
           },
           "totalCost": 10000,
-          "foreignAmount": 1056.26
+          "foreignAmount": 1054.03
         },
         {
           "id": "paypal",
@@ -3004,7 +3061,7 @@
           "supported": true,
           "fee": 5000,
           "spread": 0.5,
-          "appliedRate": 942,
+          "appliedRate": 944,
           "speed": "—",
           "promotions": "",
           "note": "데이터 미확인",
@@ -3014,45 +3071,45 @@
               "sendAmount": 300000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 313.16,
+              "appliedRate": 944,
+              "receivedAmount": 312.5,
               "totalCost": 6500
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 1056.26,
+              "appliedRate": 944,
+              "receivedAmount": 1054.03,
               "totalCost": 10000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 3179.41,
+              "appliedRate": 944,
+              "receivedAmount": 3172.67,
               "totalCost": 20000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 5302.55,
+              "appliedRate": 944,
+              "receivedAmount": 5291.31,
               "totalCost": 30000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 5000,
               "spread": 0.5,
-              "appliedRate": 942,
-              "receivedAmount": 10610.4,
+              "appliedRate": 944,
+              "receivedAmount": 10587.92,
               "totalCost": 55000
             }
           },
           "totalCost": 10000,
-          "foreignAmount": 1056.26
+          "foreignAmount": 1054.03
         },
         {
           "id": "moin",
@@ -3060,9 +3117,9 @@
           "kr": "모인",
           "supported": true,
           "fee": 11000,
-          "spread": 0,
-          "appliedRate": 936,
-          "receivedAmount": 1055.59,
+          "spread": 0.106,
+          "appliedRate": 940,
+          "receivedAmount": 1050.84,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -3072,9 +3129,9 @@
               "fixedFee": 4000,
               "flexibleFee": 2100,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 313.69
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 312.28
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -3082,9 +3139,9 @@
               "fixedFee": 4000,
               "flexibleFee": 7000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 1055.59
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 1050.84
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -3092,9 +3149,9 @@
               "fixedFee": 4000,
               "flexibleFee": 21000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 3175.32
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 3161.02
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -3102,9 +3159,9 @@
               "fixedFee": 4000,
               "flexibleFee": 35000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 5295.05
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 5271.2
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -3112,15 +3169,15 @@
               "fixedFee": 4000,
               "flexibleFee": 70000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 10594.37
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 10546.64
             }
           },
           "promotions": "",
           "note": "수수료율 0.7%",
-          "totalCost": 11000,
-          "foreignAmount": 1056.62
+          "totalCost": 12060,
+          "foreignAmount": 1052.13
         },
         {
           "id": "toss",
@@ -3128,9 +3185,9 @@
           "kr": "토스",
           "supported": true,
           "fee": 11000,
-          "spread": 0,
-          "appliedRate": 936,
-          "receivedAmount": 1055.59,
+          "spread": 0.106,
+          "appliedRate": 940,
+          "receivedAmount": 1050.84,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -3140,9 +3197,9 @@
               "fixedFee": 4000,
               "flexibleFee": 2100,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 313.69
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 312.28
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -3150,9 +3207,9 @@
               "fixedFee": 4000,
               "flexibleFee": 7000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 1055.59
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 1050.84
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -3160,9 +3217,9 @@
               "fixedFee": 4000,
               "flexibleFee": 21000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 3175.32
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 3161.02
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -3170,9 +3227,9 @@
               "fixedFee": 4000,
               "flexibleFee": 35000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 5295.05
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 5271.2
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -3180,15 +3237,15 @@
               "fixedFee": 4000,
               "flexibleFee": 70000,
               "feeRate": 0.007,
-              "spread": 0,
-              "appliedRate": 936,
-              "receivedAmount": 10594.37
+              "spread": 0.106,
+              "appliedRate": 940,
+              "receivedAmount": 10546.64
             }
           },
           "promotions": "",
           "note": "모인 연동, 동일 환율",
-          "totalCost": 11000,
-          "foreignAmount": 1056.62
+          "totalCost": 12060,
+          "foreignAmount": 1052.13
         },
         {
           "id": "sentbe",
@@ -3196,8 +3253,8 @@
           "kr": "센트비",
           "supported": true,
           "fee": 2500,
-          "spread": 0.854,
-          "appliedRate": 945,
+          "spread": 1.171,
+          "appliedRate": 950,
           "speed": "5분~2일",
           "promotions": "",
           "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
@@ -3206,103 +3263,46 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 2500,
-              "spread": 0.854,
-              "appliedRate": 945,
-              "receivedAmount": 314.81,
-              "totalCost": 5062
+              "spread": 1.171,
+              "appliedRate": 950,
+              "receivedAmount": 313.16,
+              "totalCost": 6013
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 2500,
-              "spread": 0.854,
-              "appliedRate": 945,
-              "receivedAmount": 1055.56,
-              "totalCost": 11040
+              "spread": 1.171,
+              "appliedRate": 950,
+              "receivedAmount": 1050,
+              "totalCost": 14210
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 2500,
-              "spread": 0.854,
-              "appliedRate": 945,
-              "receivedAmount": 3171.96,
-              "totalCost": 28120
+              "spread": 1.171,
+              "appliedRate": 950,
+              "receivedAmount": 3155.26,
+              "totalCost": 37630
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 2500,
-              "spread": 0.854,
-              "appliedRate": 945,
-              "receivedAmount": 5288.36,
-              "totalCost": 45200
+              "spread": 1.171,
+              "appliedRate": 950,
+              "receivedAmount": 5260.53,
+              "totalCost": 61050
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 2500,
-              "spread": 0.854,
-              "appliedRate": 945,
-              "receivedAmount": 10579.37,
-              "totalCost": 87900
+              "spread": 1.171,
+              "appliedRate": 950,
+              "receivedAmount": 10523.68,
+              "totalCost": 119600
             }
           },
-          "totalCost": 11040,
-          "foreignAmount": 1055.56
-        },
-        {
-          "id": "wirebarley",
-          "name": "WireBarley",
-          "kr": "와이어바알리",
-          "supported": true,
-          "fee": 0,
-          "spread": 1.81,
-          "appliedRate": 954,
-          "speed": "1~3일",
-          "promotions": "",
-          "note": "",
-          "source": "fixed",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 1.81,
-              "appliedRate": 954,
-              "receivedAmount": 309.22,
-              "totalCost": 10430
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 0,
-              "spread": 1.81,
-              "appliedRate": 954,
-              "receivedAmount": 1048.22,
-              "totalCost": 18100
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 0,
-              "spread": 1.81,
-              "appliedRate": 954,
-              "receivedAmount": 3144.65,
-              "totalCost": 54300
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 0,
-              "spread": 1.81,
-              "appliedRate": 954,
-              "receivedAmount": 5241.09,
-              "totalCost": 90500
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 0,
-              "spread": 1.81,
-              "appliedRate": 954,
-              "receivedAmount": 10482.18,
-              "totalCost": 181000
-            }
-          },
-          "totalCost": 18100,
-          "foreignAmount": 1048.22
+          "totalCost": 14210,
+          "foreignAmount": 1050
         },
         {
           "id": "hana",
@@ -3310,56 +3310,56 @@
           "kr": "하나은행",
           "supported": true,
           "fee": 13000,
-          "spread": 0.999,
-          "appliedRate": 945,
+          "spread": 1,
+          "appliedRate": 950,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩935.71, 전신료 포함",
+          "note": "매매기준율 ₩940.47, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 945,
-              "receivedAmount": 303.7,
-              "totalCost": 15997
+              "spread": 1,
+              "appliedRate": 950,
+              "receivedAmount": 302.11,
+              "totalCost": 16000
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 945,
-              "receivedAmount": 1044.44,
-              "totalCost": 22990
+              "spread": 1,
+              "appliedRate": 950,
+              "receivedAmount": 1038.95,
+              "totalCost": 23000
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 945,
-              "receivedAmount": 3160.85,
-              "totalCost": 42970
+              "spread": 1,
+              "appliedRate": 950,
+              "receivedAmount": 3144.21,
+              "totalCost": 43000
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 945,
-              "receivedAmount": 5277.25,
-              "totalCost": 62950
+              "spread": 1,
+              "appliedRate": 950,
+              "receivedAmount": 5249.47,
+              "totalCost": 63000
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
-              "spread": 0.999,
-              "appliedRate": 945,
-              "receivedAmount": 10568.25,
-              "totalCost": 112900
+              "spread": 1,
+              "appliedRate": 950,
+              "receivedAmount": 10512.63,
+              "totalCost": 113000
             }
           },
-          "totalCost": 22990,
-          "foreignAmount": 1044.44
+          "totalCost": 23000,
+          "foreignAmount": 1038.95
         },
         {
           "id": "shinhan",
@@ -3368,7 +3368,7 @@
           "supported": true,
           "fee": 18000,
           "spread": 1.75,
-          "appliedRate": 953,
+          "appliedRate": 955,
           "speed": "1~3일",
           "promotions": "",
           "note": "",
@@ -3378,52 +3378,109 @@
               "sendAmount": 300000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 953,
-              "receivedAmount": 295.91,
+              "appliedRate": 955,
+              "receivedAmount": 295.29,
               "totalCost": 23250
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 953,
-              "receivedAmount": 1030.43,
+              "appliedRate": 955,
+              "receivedAmount": 1028.27,
               "totalCost": 35500
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 953,
-              "receivedAmount": 3129.07,
+              "appliedRate": 955,
+              "receivedAmount": 3122.51,
               "totalCost": 70500
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 953,
-              "receivedAmount": 5227.7,
+              "appliedRate": 955,
+              "receivedAmount": 5216.75,
               "totalCost": 105500
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 18000,
               "spread": 1.75,
-              "appliedRate": 953,
-              "receivedAmount": 10474.29,
+              "appliedRate": 955,
+              "receivedAmount": 10452.36,
               "totalCost": 193000
             }
           },
           "totalCost": 35500,
-          "foreignAmount": 1030.43
+          "foreignAmount": 1028.27
         }
       ]
     },
     "SGD": {
       "midRate": 1042,
-      "fetchedAt": "2026-11-24T07:30:46.489Z",
+      "fetchedAt": "2026-11-25T05:59:28.414Z",
       "services": [
+        {
+          "id": "wirebarley",
+          "name": "WireBarley",
+          "kr": "와이어바알리",
+          "supported": true,
+          "fee": 0,
+          "spread": 0.96,
+          "appliedRate": 1052,
+          "speed": "1~3일",
+          "promotions": "",
+          "note": "",
+          "source": "fixed",
+          "tiers": {
+            "300000": {
+              "sendAmount": 300000,
+              "fee": 5000,
+              "spread": 0.96,
+              "appliedRate": 1052,
+              "receivedAmount": 280.42,
+              "totalCost": 7880
+            },
+            "1000000": {
+              "sendAmount": 1000000,
+              "fee": 0,
+              "spread": 0.96,
+              "appliedRate": 1052,
+              "receivedAmount": 950.57,
+              "totalCost": 9600
+            },
+            "3000000": {
+              "sendAmount": 3000000,
+              "fee": 0,
+              "spread": 0.96,
+              "appliedRate": 1052,
+              "receivedAmount": 2851.71,
+              "totalCost": 28800
+            },
+            "5000000": {
+              "sendAmount": 5000000,
+              "fee": 0,
+              "spread": 0.96,
+              "appliedRate": 1052,
+              "receivedAmount": 4752.85,
+              "totalCost": 48000
+            },
+            "10000000": {
+              "sendAmount": 10000000,
+              "fee": 0,
+              "spread": 0.96,
+              "appliedRate": 1052,
+              "receivedAmount": 9505.7,
+              "totalCost": 96000
+            }
+          },
+          "totalCost": 9600,
+          "foreignAmount": 950.57
+        },
         {
           "id": "wise",
           "name": "Wise",
@@ -3544,8 +3601,8 @@
           "kr": "센트비",
           "supported": true,
           "fee": 2500,
-          "spread": 0.864,
-          "appliedRate": 1051,
+          "spread": 0.768,
+          "appliedRate": 1050,
           "speed": "5분~2일",
           "promotions": "",
           "note": "스탠다드 ₩2500 / 익스프레스 ₩5000",
@@ -3554,46 +3611,46 @@
             "300000": {
               "sendAmount": 300000,
               "fee": 2500,
-              "spread": 0.864,
-              "appliedRate": 1051,
-              "receivedAmount": 283.06,
-              "totalCost": 5092
+              "spread": 0.768,
+              "appliedRate": 1050,
+              "receivedAmount": 283.33,
+              "totalCost": 4804
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 2500,
-              "spread": 0.864,
-              "appliedRate": 1051,
-              "receivedAmount": 949.1,
-              "totalCost": 11140
+              "spread": 0.768,
+              "appliedRate": 1050,
+              "receivedAmount": 950,
+              "totalCost": 10180
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 2500,
-              "spread": 0.864,
-              "appliedRate": 1051,
-              "receivedAmount": 2852.05,
-              "totalCost": 28420
+              "spread": 0.768,
+              "appliedRate": 1050,
+              "receivedAmount": 2854.76,
+              "totalCost": 25540
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 2500,
-              "spread": 0.864,
-              "appliedRate": 1051,
-              "receivedAmount": 4755,
-              "totalCost": 45700
+              "spread": 0.768,
+              "appliedRate": 1050,
+              "receivedAmount": 4759.52,
+              "totalCost": 40900
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 2500,
-              "spread": 0.864,
-              "appliedRate": 1051,
-              "receivedAmount": 9512.37,
-              "totalCost": 88900
+              "spread": 0.768,
+              "appliedRate": 1050,
+              "receivedAmount": 9521.43,
+              "totalCost": 79300
             }
           },
-          "totalCost": 11140,
-          "foreignAmount": 949.1
+          "totalCost": 10180,
+          "foreignAmount": 950
         },
         {
           "id": "moin",
@@ -3603,7 +3660,7 @@
           "fee": 13000,
           "spread": 0,
           "appliedRate": 1040,
-          "receivedAmount": 947.41,
+          "receivedAmount": 948.01,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -3615,7 +3672,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 283.55
+              "receivedAmount": 283.73
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -3625,7 +3682,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 947.41
+              "receivedAmount": 948.01
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -3635,7 +3692,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 2844.14
+              "receivedAmount": 2845.97
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -3645,7 +3702,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 4740.88
+              "receivedAmount": 4743.92
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -3655,7 +3712,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 9482.71
+              "receivedAmount": 9488.79
             }
           },
           "promotions": "",
@@ -3671,7 +3728,7 @@
           "fee": 13000,
           "spread": 0,
           "appliedRate": 1040,
-          "receivedAmount": 947.41,
+          "receivedAmount": 948.01,
           "speed": "수 시간~1일",
           "source": "moin-api",
           "tiers": {
@@ -3683,7 +3740,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 283.55
+              "receivedAmount": 283.73
             },
             "1000000": {
               "sendAmount": 1000000,
@@ -3693,7 +3750,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 947.41
+              "receivedAmount": 948.01
             },
             "3000000": {
               "sendAmount": 3000000,
@@ -3703,7 +3760,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 2844.14
+              "receivedAmount": 2845.97
             },
             "5000000": {
               "sendAmount": 5000000,
@@ -3713,7 +3770,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 4740.88
+              "receivedAmount": 4743.92
             },
             "10000000": {
               "sendAmount": 10000000,
@@ -3723,7 +3780,7 @@
               "feeRate": 0.012,
               "spread": 0,
               "appliedRate": 1040,
-              "receivedAmount": 9482.71
+              "receivedAmount": 9488.79
             }
           },
           "promotions": "",
@@ -3732,117 +3789,60 @@
           "foreignAmount": 949.04
         },
         {
-          "id": "wirebarley",
-          "name": "WireBarley",
-          "kr": "와이어바알리",
-          "supported": true,
-          "fee": 0,
-          "spread": 1.67,
-          "appliedRate": 1059,
-          "speed": "1~3일",
-          "promotions": "",
-          "note": "",
-          "source": "fixed",
-          "tiers": {
-            "300000": {
-              "sendAmount": 300000,
-              "fee": 5000,
-              "spread": 1.67,
-              "appliedRate": 1059,
-              "receivedAmount": 278.56,
-              "totalCost": 10010
-            },
-            "1000000": {
-              "sendAmount": 1000000,
-              "fee": 0,
-              "spread": 1.67,
-              "appliedRate": 1059,
-              "receivedAmount": 944.29,
-              "totalCost": 16700
-            },
-            "3000000": {
-              "sendAmount": 3000000,
-              "fee": 0,
-              "spread": 1.67,
-              "appliedRate": 1059,
-              "receivedAmount": 2832.86,
-              "totalCost": 50100
-            },
-            "5000000": {
-              "sendAmount": 5000000,
-              "fee": 0,
-              "spread": 1.67,
-              "appliedRate": 1059,
-              "receivedAmount": 4721.44,
-              "totalCost": 83500
-            },
-            "10000000": {
-              "sendAmount": 10000000,
-              "fee": 0,
-              "spread": 1.67,
-              "appliedRate": 1059,
-              "receivedAmount": 9442.87,
-              "totalCost": 167000
-            }
-          },
-          "totalCost": 16700,
-          "foreignAmount": 944.29
-        },
-        {
           "id": "hana",
           "name": "하나은행",
           "kr": "하나은행",
           "supported": true,
           "fee": 13000,
-          "spread": 1,
+          "spread": 0.999,
           "appliedRate": 1050,
           "speed": "1~3일",
           "promotions": "인터넷뱅킹 환율우대 50%",
-          "note": "매매기준율 ₩1,040.02, 전신료 포함",
+          "note": "매매기준율 ₩1,039.96, 전신료 포함",
           "source": "hana-api",
           "tiers": {
             "300000": {
               "sendAmount": 300000,
               "fee": 13000,
-              "spread": 1,
+              "spread": 0.999,
               "appliedRate": 1050,
               "receivedAmount": 273.33,
-              "totalCost": 16000
+              "totalCost": 15997
             },
             "1000000": {
               "sendAmount": 1000000,
               "fee": 13000,
-              "spread": 1,
+              "spread": 0.999,
               "appliedRate": 1050,
               "receivedAmount": 940,
-              "totalCost": 23000
+              "totalCost": 22990
             },
             "3000000": {
               "sendAmount": 3000000,
               "fee": 13000,
-              "spread": 1,
+              "spread": 0.999,
               "appliedRate": 1050,
               "receivedAmount": 2844.76,
-              "totalCost": 43000
+              "totalCost": 42970
             },
             "5000000": {
               "sendAmount": 5000000,
               "fee": 13000,
-              "spread": 1,
+              "spread": 0.999,
               "appliedRate": 1050,
               "receivedAmount": 4749.52,
-              "totalCost": 63000
+              "totalCost": 62950
             },
             "10000000": {
               "sendAmount": 10000000,
               "fee": 13000,
-              "spread": 1,
+              "spread": 0.999,
               "appliedRate": 1050,
               "receivedAmount": 9511.43,
-              "totalCost": 113000
+              "totalCost": 112900
             }
           },
-          "totalCost": 23000,
+          "totalCost": 22990,
           "foreignAmount": 940
         },
         {
